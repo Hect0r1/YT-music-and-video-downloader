@@ -1,1 +1,0 @@
-1. Create a function to manage the call to music download thread to avoid conflict with resolution checkboxes.
